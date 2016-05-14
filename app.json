@@ -1,0 +1,8 @@
+{
+  "name": "Echo Service",
+  "description": "A service that copies the Google REST API and echos back what it is sent.  Written in Python, using Flask.",
+  "image": "heroku/python",
+  "repository": "https://github.com/kmp1/echo_service",
+  "keywords": ["python", "flask" ],
+  "addons": []
+}
